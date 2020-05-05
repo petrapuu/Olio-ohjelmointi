@@ -1,2 +1,2 @@
 # Olio-ohjelmointi
-Pieni hissisovellus Javalla
+Pieni komentorivisovellus Javalla
